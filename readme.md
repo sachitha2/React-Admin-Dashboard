@@ -12,3 +12,7 @@ npx create-react-app <app name>
     "proxy":"http://localhost:5000", in react part
     
 npm i  concurrently
+
+
+in clicent
+npm i react-admin ra-data-simple-rest @material-ui/core
