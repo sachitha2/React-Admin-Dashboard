@@ -1,0 +1,38 @@
+{
+    "posts":[
+        {
+            "id":"1",
+            "title":"postone",
+            "body":"this is post body",
+            "publishedAt":"10-10-2020"
+        },{
+            "id":"1",
+            "title":"postone",
+            "body":"this is post body",
+            "publishedAt":"10-10-2020"
+        },{
+            "id":"1",
+            "title":"postone",
+            "body":"this is post body",
+            "publishedAt":"10-10-2020"
+        },{
+            "id":"1",
+            "title":"postone",
+            "body":"this is post body",
+            "publishedAt":"10-10-2020"
+        }
+    ],
+
+    "users":[
+        {
+            "name":"sachitha",
+            "id":"1",
+            "email":"sam@sam.com"
+        },{
+            "name":"sachitha",
+            "id":"1",
+            "email":"sam@sam.com"
+        }
+        
+    ]
+}
