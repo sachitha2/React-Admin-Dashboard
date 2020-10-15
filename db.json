@@ -1,38 +1,34 @@
 {
-    "posts":[
-        {
-            "id":"1",
-            "title":"postone",
-            "body":"this is post body",
-            "publishedAt":"10-10-2020"
-        },{
-            "id":"1",
-            "title":"postone",
-            "body":"this is post body",
-            "publishedAt":"10-10-2020"
-        },{
-            "id":"1",
-            "title":"postone",
-            "body":"this is post body",
-            "publishedAt":"10-10-2020"
-        },{
-            "id":"1",
-            "title":"postone",
-            "body":"this is post body",
-            "publishedAt":"10-10-2020"
-        }
-    ],
-
-    "users":[
-        {
-            "name":"sachitha",
-            "id":"1",
-            "email":"sam@sam.com"
-        },{
-            "name":"sachitha",
-            "id":"1",
-            "email":"sam@sam.com"
-        }
-        
-    ]
+  "posts": [
+    {
+      "title": "wefasd",
+      "body": "fqadwxz",
+      "publishedAt": "2020-10-16",
+      "id": "oEic4cV"
+    },
+    {
+      "title": "cd",
+      "bodyd": "cas",
+      "publishedAt": "2020-10-16",
+      "id": "hEk0wrp"
+    },
+    {
+      "title": "dcx",
+      "bodyd": "cswx",
+      "publishedAt": "2020-10-16",
+      "id": "R0nE7JR"
+    }
+  ],
+  "users": [
+    {
+      "name": "sachitha",
+      "id": "1",
+      "email": "sam@sam.com"
+    },
+    {
+      "name": "sachitha",
+      "id": "1",
+      "email": "sam@sam.com"
+    }
+  ]
 }
